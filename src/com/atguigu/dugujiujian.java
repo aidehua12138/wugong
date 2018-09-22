@@ -7,6 +7,9 @@ public class dugujiujian {
 		System.out.println("11111111");
 		System.out.println("222222222");
 		System.out.println("普京更新！！！");
+		System.out.println("xxxxxxxxxxx");
+		
+		
 		System.out.println("yyyyyyyyyyy");
 	}
 
